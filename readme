@@ -1,0 +1,1 @@
+Recently there has been talk of some form of malicious HID devices receiving feedback from the host computer via rapid toggling of the Num/Caps/Scroll Lock status LEDs, this is a simple application to detect such a device.
